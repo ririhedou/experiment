@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body id='kekeke'>
+
+<h1>This is a Heading</h1>
+<p id="test">Chrome Simulation</p>
+
+
+<script type="text/javascript">
+
+    MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+    var observer = new MutationObserver(function (mutations) {
+    mutations.forEach(function (mutation) {
+    //console.log(mutation);
+    for(var j=0; j<mutation.addedNodes.length; ++j) {
+         var node = mutation.addedNodes[j];
+         if ((node.nodeName === 'IFRAME') && (typeof node.src != 'undefined') )
+         {
+            console.log(node);
+            console.log("[mutationObserve][ketian][iframe][summary]" + "src" + "->" + node.src)
+         }
+        }
+    });
+});
+
+var observerConfig = {
+        childList: true,
+        subtree: true
+};
+
+observer.observe(document, observerConfig);
+</script>
+
+<script language="javascript" type="text/javascript">
+
+    //iframe injection pattern 1: doc.write
+    document.write('<iframe frameborder="0" width="120" scrolling="no" style="height:200px;background-color:#FFFFFF;border:1px solid #000000;" src="https://www.w3schools.com/jsref/met_doc_write.asp"></iframe>');
+
+    //iframe injection pattern 2: rig
+    var idafhai = "iframe";
+    var ukqre = document.createElement(idafhai);
+    var utukl = "";
+    ukqre.style.width = "12px";
+    ukqre.style.height = "5px";
+    ukqre.style.border = "0px";
+    ukqre.frameBorder = "0";
+    ukqre.setAttribute("frameBorder", "0");
+    document.body.appendChild(ukqre);
+    utukl = "https://www.w3schools.com/";
+    ukqre.src = utukl;
+
+    //iframe injection pattern 3: create and inject
+    function hello() {
+        var g = document.createElement('iframe');
+        g.src = 'https://www.w3school.com/123';
+        g.style.position = 'absolute';
+        g.style.border = '0';
+        g.style.height = '1px';
+        g.style.width = '1px';
+        g.style.left = '1px';
+        g.style.top = '1px';
+        if (!document.getElementById('g')) {
+            document.write("<div id='g'></div>");
+            document.getElementById('g').appendChild(g);
+        }
+    };
+    hello();
+
+    //iframe injection pattern 4: innerHTML
+    var pp = document.getElementById("test");
+    pp.innerHTML = '<iframe src=\"https://www.youtube.com/embed/2a4Uxdy9TQY\"></iframe>';
+
+</script>
+
+</body>
+</html>
