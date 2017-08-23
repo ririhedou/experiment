@@ -3,6 +3,15 @@
 temporaryFiles
 
 ## Result for Force Excution
+we do not detect condition, directly use mutationObserevr
+```python
+python if_force_execution.py ~/Desktop/jsiframe/jalangi2/kt_test/ke_benchs/iframe.html
+original condition{}
+we direct run without instrumentation
+detect an iframe injection: src->https://www.w3schools.com/
+```
+
+We have condition 
 ```python
 python if_force_execution.py ~/Desktop/jsiframe/jalangi2/kt_test/ke_benchs/if_bomb.html
 original condition{8: 0}
