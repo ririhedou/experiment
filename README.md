@@ -1,13 +1,13 @@
 # experiment
 
-temporaryFiles
+temporary files
 
-## Result for Force Excution
+## Result for Force Execution
 ### Step 1: using jalangi2_if condition instrumentation to see whether it has conditions
 
 ### Step 2: instrumentation depends on the if condition.
 
-(1) if it does not have condition, not need to instrument again, just append my mutation obsever code to the original iframe-injection script code.
+(1) if it does not have the condition, not need to instrument again, just append my mutation observer code to the original iframe-injection script code.
 
 we do not detect condition, directly use mutationObserevr
 ```python
@@ -33,15 +33,15 @@ the if_bomb.html is at aug_23
 ### Step 3:simulate and detection iframe injection
 
 
-## Result for using mutationObserver
+## Result for using mutation observer
 
 https://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/
 
-sample.html: my test for mutationObserver
+sample.html: my test for mutation observers
 
 sshot: screenshot.png for sample.html
 
-the last one: i insert my code after instrumentation
+the last one: I insert my code after instrumentation
 
 
 I also tested M's data:
