@@ -63,4 +63,4 @@ It detects the iframe injection:
 
 https://gist.github.com/ririhedou/c51f86f8a164326569ba40bc5d2660bb
 
-current 6 fodlers 10,000*6 = 60,000
+current 8 fodlers 100,000*8 = 800,000
