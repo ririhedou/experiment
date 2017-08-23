@@ -12,7 +12,7 @@ temporary files
 --[has condition] if it has conditions, we instrumented this html multiple times with different if-condition configurations, 
 We append my mutation observer code to the instrumented code
 
-### Step 3:simulate and detection iframe injection
+### Step 3:simulate and detect iframe injection
 
 ### Tested Examples
 
