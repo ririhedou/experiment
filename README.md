@@ -3,7 +3,7 @@
 temporary files
 
 ## Result for Force Execution
-### Step 1: using jalangi2_if condition instrumentation to see whether it has conditions
+### Step 1: using jalangi2 if condition instrumentation to see whether it has conditions
 
 ### Step 2: instrumentation depends on the if condition.
 
@@ -14,7 +14,7 @@ We append my mutation observer code to the instrumented code
 
 ### Step 3:simulate and detection iframe injection
 
-### command lines
+### Tested Examples
 
 tested HTMLs are here: https://github.com/ririhedou/experiment/tree/master/ex_aug_23
 
