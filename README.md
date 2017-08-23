@@ -2,6 +2,15 @@
 
 temporaryFiles
 
+## Result for Force Excution
+```python
+python if_force_execution.py ~/Desktop/jsiframe/jalangi2/kt_test/ke_benchs/if_bomb.html
+original condition{8: 0}
+We force execute this condition:dictionary = {8:false};
+We force execute this condition:dictionary = {8:true};
+detect an iframe injection: src->https://www.w3schools.com/jsref/met_doc_write.asp
+```
+the if_bomb.html is at aug_23
 
 ## Result for using mutationObserver
 
