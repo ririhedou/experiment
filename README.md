@@ -5,7 +5,7 @@ temporary files
 ## Result for Force Execution
 ### Step 1: using jalangi2 if condition instrumentation to see whether it has conditions
 
-### Step 2: instrumentation depends on the if condition.
+### Step 2: instrumentation depends on the if condition results.
 
 --[no condition] if it does not have the condition, not need to instrument again, just append my mutation observer code to the original iframe-injection script code.
 
