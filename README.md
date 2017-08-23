@@ -3,6 +3,12 @@
 temporaryFiles
 
 ## Result for Force Excution
+### Step 1: using jalangi2_if condition instrumentation to see whether it has conditions
+
+### Step 2: instrumentation depends on the if condition.
+
+(1) if it does not have condition, not need to instrument again, just append my mutation obsever code to the original iframe-injection script code.
+
 we do not detect condition, directly use mutationObserevr
 ```python
 python if_force_execution.py ~/Desktop/jsiframe/jalangi2/kt_test/ke_benchs/iframe.html
@@ -10,6 +16,8 @@ original condition{}
 we direct run without instrumentation
 detect an iframe injection: src->https://www.w3schools.com/
 ```
+(2) if it has conditions, we instrumented this html multiple times with different if-condition configurations, 
+We append my mutation observer code to the instrumented code
 
 We have condition 
 ```python
@@ -20,6 +28,10 @@ We force execute this condition:dictionary = {8:true};
 detect an iframe injection: src->https://www.w3schools.com/jsref/met_doc_write.asp
 ```
 the if_bomb.html is at aug_23
+
+
+### Step 3:simulate and detection iframe injection
+
 
 ## Result for using mutationObserver
 
