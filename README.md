@@ -7,7 +7,14 @@ temporary files
 
 ### Step 2: instrumentation depends on the if condition.
 
-(1) if it does not have the condition, not need to instrument again, just append my mutation observer code to the original iframe-injection script code.
+--[no condition] if it does not have the condition, not need to instrument again, just append my mutation observer code to the original iframe-injection script code.
+
+--[has condition] if it has conditions, we instrumented this html multiple times with different if-condition configurations, 
+We append my mutation observer code to the instrumented code
+
+### Step 3:simulate and detection iframe injection
+
+### command lines
 
 we do not detect condition, directly use mutationObserevr
 ```python
@@ -16,8 +23,6 @@ original condition{}
 we direct run without instrumentation
 detect an iframe injection: src->https://www.w3schools.com/
 ```
-(2) if it has conditions, we instrumented this html multiple times with different if-condition configurations, 
-We append my mutation observer code to the instrumented code
 
 We have condition 
 ```python
@@ -30,7 +35,6 @@ detect an iframe injection: src->https://www.w3schools.com/jsref/met_doc_write.a
 the if_bomb.html is at aug_23
 
 
-### Step 3:simulate and detection iframe injection
 
 
 ## Result for using mutation observer
