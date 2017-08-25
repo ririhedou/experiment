@@ -1,8 +1,23 @@
 # experiment
 
-temporaryFiles
+temporary files
 
-## Result for Force Excution
+## Result for Force Execution
+### Step 1: using jalangi2 if condition instrumentation to see whether it has conditions
+
+### Step 2: instrumentation depends on the if condition results.
+
+--[no condition] if it does not have the condition, not need to instrument again, just append my mutation observer code to the original iframe-injection script code.
+
+--[has condition] if it has conditions, we instrumented this html multiple times with different if-condition configurations, 
+We append my mutation observer code to the instrumented code
+
+### Step 3:simulate and detect iframe injection
+
+### Tested Examples
+
+tested HTMLs are here: https://github.com/ririhedou/experiment/tree/master/ex_aug_23
+
 we do not detect condition, directly use mutationObserevr
 ```python
 python if_force_execution.py ~/Desktop/jsiframe/jalangi2/kt_test/ke_benchs/iframe.html
@@ -21,15 +36,18 @@ detect an iframe injection: src->https://www.w3schools.com/jsref/met_doc_write.a
 ```
 the if_bomb.html is at aug_23
 
-## Result for using mutationObserver
+
+
+
+## Result for using mutation observer
 
 https://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/
 
-sample.html: my test for mutationObserver
+sample.html: my test for mutation observers
 
 sshot: screenshot.png for sample.html
 
-the last one: i insert my code after instrumentation
+the last one: I insert my code after instrumentation
 
 
 I also tested M's data:
@@ -45,4 +63,4 @@ It detects the iframe injection:
 
 https://gist.github.com/ririhedou/c51f86f8a164326569ba40bc5d2660bb
 
-current 6 fodlers 10,000*6 = 60,000
+current 8 fodlers 100,000*8 = 800,000
