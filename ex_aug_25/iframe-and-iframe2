@@ -1,6 +1,11 @@
+This is the detection for our iframe injection in iframe and iframe2 folders.
+
+iframe folder: 7635 htmls, reported 5228 URLs
 /tmp » cat iframe_res.out | grep detect | wc -l                                         ketian@ketian
 5228
 
+iframe2 folder:
+still runnning 
 
 === first 100 lines of iframe_res.out ====
 detect an iframe injection: src->http://eplarine.com/count3.php
