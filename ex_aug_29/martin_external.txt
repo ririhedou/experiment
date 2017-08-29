@@ -1,0 +1,341 @@
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/0a81212b433d1c7c22ada4cbd04ffd8737eb4932c41ab14ed63694e08c5a97df
+IDX:2 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/0e0648e134e17935a791cede461c6898b248d582133b1c0287690bef9e3e0b35
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/a3c597b498a6767023b64715ee467857e6e7c4e9323f272cb54993af4f04626d
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/aac21c2b1de4beb16eb3ee1abec6997e6d0ea48d8806327020ae49b8fec52051
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/c7e67e3b3c2261366819d132a337d0005a4d3c87b6fbfa91508caee4067fa30d
+IDX:1 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/cceb84b2e36550c4ad73bc20814c2e19ce9bd7c99cffc0c6ec55e5183adac64c
+IDX:0 js in the html is being tested
+detect an iframe injection: src->http://ads.rzb.ir/image.php?size_id=7
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:8 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/d51f0ac7121680b416c6c2977024a5d67967259d410cd32780abbb078ae8b8a5
+IDX:0 js in the html is being tested
+detect an iframe injection: src->http://ads.rzb.ir/image.php?size_id=7
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:8 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/def71042904d5b8200573a4d2d4b5469b37c61915a294f5ed3efadb15ac629fc
+IDX:0 js in the html is being tested
+IDX:1 js in the html is being tested
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/efdd70adea2b850d3db817c5e1d6711ced92c9685e6db6e7fa90fe2e83eb3b02
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/fbcd4d9458dbacd1033228b15df8683c9a578d27ca77ae96d4d2f52c4ddaac31
+IDX:10 js in the html is being tested
+IDX:12 js in the html is being tested
+IDX:13 js in the html is being tested
+IDX:14 js in the html is being tested
+IDX:15 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/1b430e9538964268ebf48868f0ef5a9487f87227c3ab3e8f045d793d9e5bddc5
+IDX:1 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/1e148ec079e945476df934f700f7da4251328d797b372e00a43f911676cf4cb9
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/1f4a23880c9e966b60b2ed65ba8c1ddad2b034d7c21bdc289fe1bd150e1db81f
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/2b316a13099e8a2e2a15835d5de9a6af4024dfc4f2beb894d80447a37f7fa359
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/2c7722ddbb829a292ee3ddb0e9a6ce79e7cb04e5ba64321773ffebe2f6569bd7
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/2edf6bec67935b8aa82bb9828ebc87d7640919ef18bb1e3c8f21e0029dacae41
+IDX:0 js in the html is being tested
+IDX:1 js in the html is being tested
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/03a53f0419a1837f325d8c08255d2f9d7427413427bad39cfffbe227c6cd4d04
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/4eb17b652a68410f1d37b71fb59ef3c5086ae9048cfcfefdc7b9831f9726528b
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/5dc7311f9bb9f460341ed0e210b8898232fccf236babb66898ca3157cc161977
+IDX:0 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/6e5cafe1b65764bbcec6d4bf1bda2fe0ec1fb47c45bcb4ca52d3dfe5817a80c5
+IDX:0 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/7b7cee98a466e93a30febd71e2c88519463007e5ca76210c6186502bf97d2e35
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/7eb2c2b21c3cd596470e9cacf0f89a1a612aed6df4c1c6c913975d27e04c599d
+IDX:0 js in the html is being tested
+IDX:1 js in the html is being tested
+IDX:2 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/7f173fcc8f8e741e2b1ad00a5f116f0186718be7b556d3bdced9fe68c547a53f
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/7fb5387126c181ed39e4dcf66972cf8c58940f038eb0e7c955152fee728eb27a
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/8be391cdba68ffd8574403a52ab93a9d4bad9bb1086093ed1cb98a7975d1e35e
+IDX:2 js in the html is being tested
+IDX:3 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+detect an iframe injection: src->http://dacenete.com/count1.php
+IDX:7 js in the html is being tested
+detect an iframe injection: src->http://eplarine.com/count3.php
+IDX:8 js in the html is being tested
+detect an iframe injection: src->http://matzines.com/count5.php
+IDX:9 js in the html is being tested
+detect an iframe injection: src->http://matzines.com/count5.php
+IDX:10 js in the html is being tested
+detect an iframe injection: src->http://matzines.com/count5.php
+IDX:11 js in the html is being tested
+detect an iframe injection: src->http://paleenem.com/count7.php
+IDX:12 js in the html is being tested
+detect an iframe injection: src->http://scaraori.com/count9.php
+IDX:13 js in the html is being tested
+detect an iframe injection: src->http://scornar.com/count10.php
+IDX:14 js in the html is being tested
+detect an iframe injection: src->http://adingurj.com/count11.php
+IDX:15 js in the html is being tested
+detect an iframe injection: src->http://adingurj.com/count11.php
+IDX:16 js in the html is being tested
+detect an iframe injection: src->http://bliman.com/count12.php
+IDX:17 js in the html is being tested
+detect an iframe injection: src->http://bliman.com/count12.php
+IDX:18 js in the html is being tested
+detect an iframe injection: src->http://livench.com/count13.php
+IDX:19 js in the html is being tested
+detect an iframe injection: src->http://livench.com/count13.php
+IDX:20 js in the html is being tested
+IDX:21 js in the html is being tested
+IDX:22 js in the html is being tested
+detect an iframe injection: src->http://douate.com/count9.php
+IDX:23 js in the html is being tested
+detect an iframe injection: src->http://falsewi.com/count8.php
+IDX:24 js in the html is being tested
+detect an iframe injection: src->http://bluenery.com/count7.php
+IDX:25 js in the html is being tested
+detect an iframe injection: src->http://datumer.com/count6.php
+IDX:26 js in the html is being tested
+detect an iframe injection: src->http://bevelli.com/count5.php
+IDX:27 js in the html is being tested
+IDX:28 js in the html is being tested
+IDX:29 js in the html is being tested
+IDX:30 js in the html is being tested
+IDX:31 js in the html is being tested
+IDX:32 js in the html is being tested
+IDX:33 js in the html is being tested
+IDX:34 js in the html is being tested
+IDX:35 js in the html is being tested
+detect an iframe injection: src->http://ziejpzrv.cz.cc/count24.php
+IDX:36 js in the html is being tested
+detect an iframe injection: src->http://gmsyqxrc.cz.cc/count23.php
+IDX:37 js in the html is being tested
+detect an iframe injection: src->http://fzimsroy.cz.cc/count21.php
+IDX:38 js in the html is being tested
+detect an iframe injection: src->http://jmitqnej.cz.cc/count19.php
+IDX:39 js in the html is being tested
+detect an iframe injection: src->http://shkoztdm.cz.cc/count18.php
+IDX:40 js in the html is being tested
+detect an iframe injection: src->http://vultgiyx.cz.cc/count17.php
+IDX:41 js in the html is being tested
+detect an iframe injection: src->http://aiqoxyoo.cz.cc/count16.php
+IDX:42 js in the html is being tested
+detect an iframe injection: src->http://yxsadwyu.cz.cc/count15.php
+IDX:43 js in the html is being tested
+detect an iframe injection: src->http://atsqpncp.cz.cc/count14.php
+IDX:44 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/8d26cdd844f7e3f3416ce7aa5651c477f8bb266cfd438afd3c7758bb1311485d
+IDX:2 js in the html is being tested
+IDX:3 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/8d33603254ce1dc491a93aa72687c7ee862c3e756ca7121d6278a0d6ffb22aff
+IDX:0 js in the html is being tested
+detect an iframe injection: src->http://ads.rzb.ir/image.php?size_id=7
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:8 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/9bba1cc879041c885b637910e50b8ac049c74f340bf74807cf6a9c434c2606f5
+IDX:2 js in the html is being tested
+IDX:3 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/12ee7f52348b03ec68085e92d073420fa0e3d1ec72b8546b1952714af8fb3082
+IDX:8 js in the html is being tested
+IDX:10 js in the html is being tested
+IDX:12 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/19eadee65ec65ab6b1f3668bacc3df028daf78788d0941252be76091948a087d
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/21d1a0affa0385d82c6f9baaa724174f3116533ed656da19b605075e2f331d90
+IDX:4 js in the html is being tested
+IDX:6 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/23ff3d5a82bc39fc0137ca07325ad5da19cafa41740b74b5b66f9892c71e0cf3
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/30ed262923b04a38681226071ca15dea65231a82efe41a7d94ea41e10cee1f62
+IDX:1 js in the html is being tested
+IDX:3 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:8 js in the html is being tested
+IDX:10 js in the html is being tested
+IDX:12 js in the html is being tested
+IDX:14 js in the html is being tested
+IDX:15 js in the html is being tested
+IDX:16 js in the html is being tested
+IDX:17 js in the html is being tested
+IDX:18 js in the html is being tested
+IDX:19 js in the html is being tested
+IDX:21 js in the html is being tested
+IDX:22 js in the html is being tested
+IDX:23 js in the html is being tested
+IDX:24 js in the html is being tested
+IDX:27 js in the html is being tested
+IDX:28 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/31f1abc8c1240d9c93de049b8222198b27bf32036a7e32f8842f30c2b81055f8
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/32b1462fc7f27323a075a21633445bd4b78d72fa1c58a3c031542439f524eb4b
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/33b04b7623b29cabcae71ba0f7150a34b272e1660dfb5cf94cf2ab8ab7671907
+IDX:4 js in the html is being tested
+IDX:6 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/36ed44dd26e5fe949a969da64a35ac1d190ecd6e82115b40808c46700cc495e6
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/40ce303bbff94380e309a7d73cbd33a3ba16862438ccb07b9296066568e82676
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/46a397a5e8a13c9bb85f0c168dbd75b39463d27b21926fd1e1d6b09ab42025fe
+IDX:0 js in the html is being tested
+IDX:3 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/58bfdef2a6e70b47fc7852ae1bc3fdfdac9f262bdc81ebab0f82713979b5e6e9
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/61e495bf86d3f5c14a1ede04904647e1472aa941e60c64823fff8ec924d1c978
+IDX:0 js in the html is being tested
+detect an iframe injection: src->http://ads.rzb.ir/image.php?size_id=7
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:8 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/70f5370f93c2e293ab1587d6ba5a0d375f2e3744a0f3f8993e83affe8f8b1362
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/77ec07ce9dc49623ebf75c9f62b5c0f2d6edec1e9511dab9ee8e6f01e2b466a2
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/84e51e7591b125c57eefc634e6c901a66ba4401ea5aa980f70dabc6885a598a8
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/93f1eab828c4378bd411a8945c53255bbfc5b6d7dca56c824267e4c32d5a6bb3
+IDX:0 js in the html is being tested
+IDX:4 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/181c1d9f2e2705a57681ff55f68eff62f7a6af9a82c5bccf8a0f623e68f7dfa4
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/237d3c1b7d91cdf80a5fc51329923aaa777492b9be5d3f985506a56f844db74f
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/780adf9c968874e964fa6ae7cd047a622ba09353d91d764a09581e004a07b00f
+IDX:2 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/823adcc9dc05d497adf97e9e4ed5fe47c3918b9c9d45ea13826774f30771181d
+IDX:2 js in the html is being tested
+IDX:3 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/4587ef39187be869581fbe0d50fcce0d9fa98d6292f3c0f8d3d3515ca8e70c63
+IDX:0 js in the html is being tested
+IDX:5 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/8067d969dea11714e2f310845fcbe0dcf396e5bcc555524f04b43cbd774f3e74
+IDX:2 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/3142239a9d87a03c6c88fa9b340853e138d610002c782d68a5f046f0a31d622b
+IDX:0 js in the html is being tested
+IDX:2 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/6139963b6f03cef5472edce34709e33946454887f61b5e7e6ff254a8e97d7068
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:9 js in the html is being tested
+IDX:10 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/34231986d69003fb08fb99348f45b4ebde2d6928302719135982d1e8222434f4
+IDX:0 js in the html is being tested
+IDX:2 js in the html is being tested
+IDX:5 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
+IDX:10 js in the html is being tested
+IDX:11 js in the html is being tested
+-----------------------------
+/Users/ketian/Desktop/martin/externalScript/076404756a32aab2b6b183040b57a31011d02a93b2052b3b8a325ef2d09fd206
+IDX:1 js in the html is being tested
+IDX:3 js in the html is being tested
+IDX:4 js in the html is being tested
+IDX:6 js in the html is being tested
+IDX:7 js in the html is being tested
