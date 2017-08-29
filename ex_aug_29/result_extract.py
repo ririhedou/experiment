@@ -66,9 +66,17 @@ def analyze_files_to_csv(filename, out="out.csv"):
                 }
                 dic.append(copy.deepcopy(tmp_dic))
 
-    write_into_a_csv_file(dic, filename=out)
-    return
+    #write_into_a_csv_file(dic, filename=out)
+    return dic
 
-filename="ex_aug_29/iframe2_res.out"
-out = "iframe.csv"
-analyze_files_to_csv(filename,out)
+
+#filename="ex_aug_29/iframe2_res.out"
+#out = "iframe.csv"
+#analyze_files_to_csv(filename,out)
+if __name__ == "__main__":
+    martin =[ "martin_embed.txt", "martin_external.txt", "martin_iframe.txt"]
+    alist = []
+    for i in martin:
+        alist.extend(analyze_files_to_csv(i))
+    write_into_a_csv_file(alist, "martin_data.csv")
+
