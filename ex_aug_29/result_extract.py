@@ -8,6 +8,16 @@ __time__ = "2017"
 
 import csv
 import copy
+
+
+def write_list_into_a_file(alist,filename):
+    with open(filename,'wb') as f:
+        for i in alist:
+            f.write(i + "\n")
+        f.flush()
+        f.close()
+
+
 def write_into_a_csv_file_one_dict(ans,filename="csvfile.csv"):
     """
     :param ans: a list of dictionaries
@@ -70,13 +80,18 @@ def analyze_files_to_csv(filename, out="out.csv"):
     return dic
 
 
-#filename="ex_aug_29/iframe2_res.out"
-#out = "iframe.csv"
-#analyze_files_to_csv(filename,out)
-if __name__ == "__main__":
-    martin =[ "martin_embed.txt", "martin_external.txt", "martin_iframe.txt"]
-    alist = []
-    for i in martin:
-        alist.extend(analyze_files_to_csv(i))
-    write_into_a_csv_file(alist, "martin_data.csv")
 
+if __name__ == "__main__":
+    #martin =[ "martin_embed.txt", "martin_external.txt", "martin_iframe.txt"]
+    #alist = []
+    #for i in martin:
+    #    alist.extend(analyze_files_to_csv(i))
+    #write_into_a_csv_file(alist, "martin_data.csv")
+    filename="iframe2_res.out"
+    out = "iframe.csv"
+    dic = analyze_files_to_csv(filename,out)
+    src = []
+    for i in dic:
+        src.append(i["src"])
+
+    write_list_into_a_file(src, "iframe2_src_url.txt")
