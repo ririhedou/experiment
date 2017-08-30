@@ -87,7 +87,7 @@ if __name__ == "__main__":
     #for i in martin:
     #    alist.extend(analyze_files_to_csv(i))
     #write_into_a_csv_file(alist, "martin_data.csv")
-    filename="iframe2_res.out"
+    filename="iframe_res.out"
     out = "iframe.csv"
     dic = analyze_files_to_csv(filename,out)
 
@@ -99,5 +99,7 @@ if __name__ == "__main__":
             continue
         src.append(i["src"])
 
+    print (len(src))
     src = list(set(src))
-    write_list_into_a_file(src, "iframe2_unique_src_url.txt")
+    print (len(src))
+    #write_list_into_a_file(src, "iframe2_unique_src_url.txt")
