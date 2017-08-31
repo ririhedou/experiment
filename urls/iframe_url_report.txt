@@ -1,0 +1,425 @@
+file:///abnl/?adsdata=qOiEh23BgSiGG21adVLzVDIw6Btq8p^TRRxJm3YG2EtFnT3EFEclv!2TSYLHyx3TXOl8vupEB9haAQQy3xDl^8AvcvZJBt4jYiWfHQ9o			URL is not valid
+file:///abnl/?adsdata=1VrEWO34EM;993RADCxry;v0Pu7Tb8gYmEXBCRZn2ZtaFMXufHCbcMsGAHFVV;y;4JZ44QgqtzqAXyL6VuxIPybuCCHAvj455jH3			URL is not valid
+http://localhost/			URL is not valid
+file:///abnl/?adsdata=mANQ6Pjqr7;h7NTVSD5^D2ajR77u2qA!v74ycYukpNt9ykWM341wHXD6Uf!vqmL;v6GIT^6T2zaBSuxVxELl!qXejjrmP7ZbiuYfzVbc			URL is not valid
+http://tereda.hobby-site.org/eqxa.cgi?default	1	68	2016-09-19 14:52:30	Fortinet:malware site
+http://bluenery.com/count7.php	2	65	2017-08-12 21:47:01	Sophos:malicious site Yandex Safebrowsing:malware site
+http://zirycatum.com/k985ytv.htm	8	65	2017-07-03 12:32:45	Google Safebrowsing:malware site Kaspersky:malware site Dr.Web:malicious site G-Data:malware site Websense ThreatSeeker:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://babyreva.com/google_counter.php	3	68	2016-12-23 05:00:40	Websense ThreatSeeker:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://twoandhalfyear.ws/reached/global_reflection_sounding_techniques.php	2	64	2017-02-17 09:08:28	Avira:malware site Fortinet:malware site
+http://wtzvvykt.cz.cc/count15.php	4	67	2016-06-09 09:13:00	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://zhrcyffw.cz.cc/count22.php	5	65	2017-08-23 00:21:05	Dr.Web:malicious site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site Fortinet:malware site
+http://zapzdiin.cz.cc/count16.php	2	67	2016-06-09 11:02:16	Websense ThreatSeeker:malicious site Sophos:malicious site
+http://depenam.com/count22.php	5	65	2017-08-15 01:03:46	Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site Fortinet:malware site
+http://codemonkeysoftware.co.za/images/dtd.php	4	62	2015-03-20 13:48:03	Google Safebrowsing:malware site Dr.Web:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://tylgyur.in/count27.php	4	67	2016-05-29 09:08:14	Kaspersky:malware site BitDefender:malware site Sophos:malicious site Yandex Safebrowsing:malware site
+http://exploretravelnursing.com/news.php?tp=fdfa3ae59e44d190	6	68	2016-10-08 10:38:43	Kaspersky:malware site Websense ThreatSeeker:malicious site SCUMWARE.org:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://mlpcivga.cz.cc/count18.php	4	67	2016-05-28 10:06:32	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://spendmetest.com/Services/count.php	2	68	2016-08-09 10:13:30	Dr.Web:malicious site Websense ThreatSeeker:malicious site
+http://secilsulek.com/clk.php	2	68	2016-10-21 08:30:00	Dr.Web:malicious site Fortinet:malware site
+http://vanysa.de/traf.php	2	68	2016-09-04 15:17:15	Google Safebrowsing:malware site Fortinet:malware site
+http://zoetqcvp.cz.cc/count20.php	5	67	2016-05-28 18:51:01	Kaspersky:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://drbolivar.com/stats.php	2	65	2017-08-25 10:47:44	Avira:malware site Sucuri SiteCheck:malicious site
+http://www.marcotapinelli.com/images/cnt.php	2	68	2016-10-24 13:33:28	Websense ThreatSeeker:malicious site Fortinet:malware site
+http://jhqgniys.cz.cc/count23.php	3	65	2017-08-24 10:51:27	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://ecolimit.ru/cnt.php	2	65	2017-07-19 22:31:51	Avira:malware site Fortinet:malware site
+http://inspireall.org/images/ywPBJxqf.php	1	65	2017-06-28 07:30:24	ZeroCERT:malicious site
+http://fishum.com/count23.php	12	67	2016-06-10 01:41:36	Google Safebrowsing:malware site BitDefender:malware site Certly:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site ADMINUSLabs:malicious site Avira:malware site SCUMWARE.org:malware site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site Fortinet:malware site
+http://62.129.239.229/cnt.php	3	68	2016-10-22 01:37:00	BitDefender:malware site Dr.Web:malicious site Fortinet:malware site
+http://65.175.109.137/n9YMDNPb.php	0	64	2017-04-26 22:31:01	
+http://cybersbi.com/SideSites/count.php	1	36	2013-04-28 23:38:14	Fortinet:malware site
+http://kfc.i.illuminationes.com/snitch?default_keyword=&referrer=&se_referrer=&source=	7	65	2017-08-30 01:00:41	Kaspersky:malware site Dr.Web:malicious site Avira:malware site ESET:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://69.10.33.245/FormTools1_5_1/clik.php	5	68	2016-11-07 21:00:10	Google Safebrowsing:malware site Dr.Web:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://pnfyoidgkn.ce.ms/count13.php	5	67	2016-07-02 13:07:43	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://www.nicoleneffphotography.com/cnt.php	0	68	2016-07-15 13:16:47	
+http://abeshaus-genealogy.com/49TGjLWY.php	0	68	2016-08-22 05:27:27	
+http://jkjlaawd.cz.cc/count13.php	5	67	2016-06-09 15:49:46	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ad.googleclick.info/?travel	5	63	2015-07-14 15:54:28	AutoShun:malicious site Kaspersky:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://expertsoftsolutions.com/js/3Ygwvr76.php	1	68	2016-08-26 03:51:09	BitDefender:phishing site
+http://locumresources.com/forum.php?tp=675eafec431b1f72	7	68	2016-11-25 04:01:43	Kaspersky:malware site Dr.Web:malicious site Avira:malware site SCUMWARE.org:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://pinkcontact.net/esd.php	1	67	2016-06-08 16:10:51	Avira:malware site
+http://217.13.162.30/fileadmin/cnt.php	2	68	2016-10-30 06:00:44	Dr.Web:malicious site Fortinet:malware site
+http://distrimedia.be/clik.php	0	63	2015-09-11 17:43:26	
+http://51041846.de.strato-hosting.eu/Farben/esd.php	0	37	2013-03-30 14:58:04	
+http://fwlyzyui.cz.cc/count18.php	5	67	2016-06-07 04:33:43	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ihulypzi.ru/count12.php	3	68	2016-07-11 08:54:11	Kaspersky:malware site Websense ThreatSeeker:malicious site Sucuri SiteCheck:malicious site
+http://tutproba.com/trunk?3	2	33	2013-01-12 00:46:44	Google Safebrowsing:malware site Sophos:malicious site
+http://nnzgysxd.cz.cc/count16.php	4	67	2016-06-07 04:28:27	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://www.arrowsearch.com/cnt.php	0	39	2013-09-13 06:23:13	
+http://cbkjeoof.cz.cc/count18.php	5	67	2016-06-04 12:28:14	Dr.Web:malicious site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ftp.go2holiday.net/incomingFTP/clik.php	1	68	2016-09-06 17:26:50	Fortinet:malware site
+http://scaraori.com/count9.php	6	66	2017-07-21 11:26:23	Sangfor:malware site Kaspersky:malware site Dr.Web:malicious site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site
+http://israelfl.hostzi.com/rel.php	1	67	2016-06-08 03:12:02	Dr.Web:malicious site
+http://beko.az/count.php	0	63	2015-08-25 11:55:35	
+http://tejuxiv.ru/count2.php	7	65	2017-08-28 06:58:16	Google Safebrowsing:malware site Kaspersky:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://mareop922we.cu.cc/i/ftpvecher29	3	68	2016-11-15 02:28:56	Kaspersky:malware site Dr.Web:malicious site AutoShun:malicious site
+http://zlalictr.cz.cc/count17.php	4	67	2016-06-09 15:17:04	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://businesspaard.nl/wp-includes/traf.php	2	60	2014-11-04 17:24:41	Dr.Web:malicious site Fortinet:malware site
+http://fatguysfood.com/_vti_bin/dtd.php	3	57	2014-07-19 16:49:57	Google Safebrowsing:malware site Sophos:malicious site Fortinet:malware site
+http://wrtetrxh.ce.ms/count13.php	6	68	2016-07-23 02:47:41	Kaspersky:malware site AutoShun:malicious site Avira:malware site SCUMWARE.org:malware site Sophos:malicious site Fortinet:malware site
+http://iwahroq.ru/count6.php	5	65	2017-08-14 05:09:39	Kaspersky:malware site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://deangrzelak.com/wp-includes/rel.php	1	58	2014-08-20 09:25:23	Fortinet:malware site
+http://dv-suedpfalz.de/melde/dtd.php	3	68	2016-08-11 18:44:19	Dr.Web:malicious site Websense ThreatSeeker:malicious site Fortinet:malware site
+http://dybumzmi.cz.cc/count23.php	4	65	2017-06-28 07:30:32	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://idadxal.net/count22.php	2	68	2016-10-12 10:32:54	BitDefender:malware site Avira:malware site
+http://gxjamuwp.cz.cc/count15.php	5	67	2016-06-09 15:50:15	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://pinkcontact.net/clicker.php	0	67	2016-06-08 16:07:00	
+http://rkieadjjtm.ce.ms/count13.php	3	67	2016-07-02 13:07:40	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://dimabilanch.ru:8080/forum/links/column.php	1	67	2016-06-01 07:50:26	Websense ThreatSeeker:malicious site
+http://khkxdiat.cz.cc/count23.php	5	67	2016-06-10 02:22:14	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ykqevax.ru/count3.php	4	65	2017-08-19 04:21:13	Kaspersky:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://viadelcampo.com/:/counter.php	1	68	2016-10-22 05:48:57	Sucuri SiteCheck:malicious site
+http://ubbylys.ru/count28.php	6	67	2016-05-31 00:47:34	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site
+http://ecodomain.osa.pl/showthread.php?t=55152269	6	67	2016-06-07 19:47:22	Kaspersky:malware site BitDefender:malware site Dr.Web:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://fofficino.it/img/rel.php	0	68	2016-08-26 13:43:57	
+http://kefrikin.ru:8080/forum/showthread.php?page=5fa58bce769e5c2c	2	68	2016-10-19 05:50:57	Websense ThreatSeeker:malicious site Sophos:malicious site
+http://ywzjvqssv.myfw.us/t/vc.php?go=2	8	67	2016-06-10 08:06:03	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Malware Domain Blocklist:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://frasselt-kalorama.nl/relay.php	2	68	2016-10-22 23:56:54	Sucuri SiteCheck:malicious site Fortinet:malware site
+http://adriennvendeghaz.hu/counter.php	1	38	2013-05-01 21:29:06	Kaspersky:malware site
+http://dixrkno.ce.ms/count13.php	4	67	2016-07-02 13:07:33	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://mskoblastionline.ru:8080/forum/showthread.php?page=5fa58bce769e5c2c	1	67	2016-05-29 04:58:13	Websense ThreatSeeker:malicious site
+http://vcpwhzzi.cz.cc/count14.php	5	67	2016-06-09 15:41:40	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ftp-security.com/mind/in.cgi?6	3	67	2016-05-25 18:10:21	Websense ThreatSeeker:malicious site Avira:malware site Fortinet:malware site
+http://izjqlcww.ce.ms/count13.php	3	67	2016-06-13 03:43:07	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://213.198.109.117/installationx/cnt.php	0	68	2016-10-22 02:35:16	
+http://ypbwcqqg.cz.cc/count22.php	4	67	2016-05-28 10:06:44	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://africanmangoextractdiet.org/BDQgWJ72.php	1	68	2016-12-23 10:42:21	ZeroCERT:malicious site
+http://strokengordijnen24.nl/relay.php	1	64	2017-05-21 04:05:45	Sucuri SiteCheck:malicious site
+http://llilbb.lflinkup.net/stats/ga.php	1	64	2017-06-06 03:56:36	Sophos:malicious site
+http://bgxnaglv.cz.cc/count22.php	3	67	2016-05-28 08:18:39	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://ziejpzrv.cz.cc/count24.php	10	67	2016-06-14 13:16:43	Kaspersky:malware site Dr.Web:malicious site Certly:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site ADMINUSLabs:malicious site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site
+http://szef-kuchni-poleca.eu/wqWVB7kn.php	0	39	2013-05-22 05:29:47	
+http://computerkeyboards101.com/wp-content/traf.php	0	68	2016-08-24 11:56:43	
+http://gowfqzedvq.serveuser.com/counter/stats.php	1	64	2017-05-17 09:16:26	Sophos:malicious site
+http://expert-buy.com/modules/mod_add/tYR163uT.php	1	68	2016-11-01 04:52:11	Dr.Web:malicious site
+http://ikalvallarta.com/esd.php	2	52	2014-05-24 00:51:56	BitDefender:malware site Sucuri SiteCheck:malicious site
+http://paseroper.in/in.cgi?default	2	39	2013-09-28 07:41:46	Kaspersky:malware site Sophos:malicious site
+http://fortifyfit.com/cnt.php	0	68	2016-10-27 17:54:51	
+http://rbllidyv.cz.cc/count16.php	5	67	2016-05-28 10:07:09	Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://tonershop.com/esd.php	2	68	2016-10-27 16:52:26	Dr.Web:malicious site Fortinet:malware site
+http://obieiichiko.xsrv.jp/count.php	1	68	2016-11-06 02:07:40	Sucuri SiteCheck:malicious site
+http://livench.com/count13.php	11	68	2016-12-27 17:26:53	Google Safebrowsing:malware site Dr.Web:malicious site G-Data:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Avira:malware site SCUMWARE.org:malware site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site Fortinet:malware site
+http://auto-schade.de/seite4.htm	0	51	2013-11-25 09:22:39	
+http://pouzvtnh.cz.cc/count16.php	5	64	2017-04-20 16:22:42	Websense ThreatSeeker:malicious site SCUMWARE.org:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://womensproductsonline.com/_zc_install/relay.php	2	68	2016-11-29 10:14:33	BitDefender:phishing site Sucuri SiteCheck:malicious site
+http://omcmwo.net/nxzC3mby.php	0	68	2016-09-02 23:15:04	
+http://michaelmazur.net/xml.php	6	64	2017-03-20 16:24:19	Kaspersky:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://www.harryhontzphoto.com/myalbum_files/dtd.php	1	58	2014-08-25 09:07:52	BitDefender:malware site
+http://lgtsexop.ce.ms/count13.php	2	67	2016-07-02 13:07:31	Avira:malware site Sophos:malicious site
+http://odysseychem.net/rel.php	2	68	2016-11-01 09:53:24	BitDefender:phishing site Fortinet:malware site
+http://freecasualdatinglove.biz/	0	64	2017-05-23 14:13:47	
+http://dublikaitedsr.com/main.php?page=e548d9923f8fe2a0	4	67	2016-05-28 14:16:40	Kaspersky:malware site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site
+http://www.mydisley.com/cnt.php	5	39	2013-05-31 00:36:24	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Sucuri SiteCheck:malicious site
+http://subcosi.com/count2.php	6	65	2017-08-16 10:09:49	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://wmjemtgkp.qhigh.com/d/404.php?go=1	4	68	2016-07-10 02:24:41	Websense ThreatSeeker:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://haukxcusks.sexidude.com/counter/stats.php	2	64	2017-02-23 06:54:54	Fortinet:malware site ZeroCERT:malicious site
+http://c11n4.i.teaserguide.com/snitch?default_keyword=&referrer=&se_referrer=&source=	6	68	2016-11-01 04:58:26	Dr.Web:malicious site Websense ThreatSeeker:malicious site ESET:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://google-banking.com/main.php?page=f8a892dc63e25f27	6	67	2016-05-28 07:33:03	Kaspersky:malware site BitDefender:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://3v33v3v.usa.cc/index.php?showtopic=314158	4	61	2014-12-25 13:57:34	BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Fortinet:malware site
+http://znfxgwwr.ce.ms/count13.php	4	68	2017-01-21 08:43:55	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://market-panel.net/main.php?page=8b89c7278770dfd7	6	67	2016-06-13 13:24:54	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site ADMINUSLabs:malicious site Sophos:malicious site Fortinet:malware site
+http://xprbatoar.myfw.us/?go=2	2	64	2017-03-20 06:31:04	Kaspersky:malware site AutoShun:malicious site
+http://sittanyg.ru/count19.php	3	67	2016-06-14 23:35:24	Kaspersky:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site
+http://nktxmecg.ce.ms/count13.php	5	67	2016-07-02 13:07:36	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://bgivscb.ce.ms/count13.php	2	67	2016-06-13 03:43:09	Avira:malware site Sophos:malicious site
+http://bvlt-abtl.be/clicker.php	1	63	2015-05-05 12:09:39	Kaspersky:malware site
+http://nani-oia.de/peppamint/clik.php	0	68	2016-07-08 23:51:39	
+http://scimedwriting.com/images/yQZpkB46.php	0	68	2016-11-02 17:17:51	
+http://casdedeux.com/Zj93CN8d.php	0	68	2016-08-24 01:16:28	
+http://vultgiyx.cz.cc/count17.php	6	67	2016-06-13 03:49:55	Websense ThreatSeeker:malicious site AutoShun:malicious site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://ftp.webcreationsgroup.com/payment/rel.php	2	67	2016-06-09 18:34:01	SCUMWARE.org:malware site Sucuri SiteCheck:malicious site
+http://flipnode.net/uploadify/Qm9prfY8.php	0	68	2016-10-31 06:34:32	
+http://tadleybandb.co.uk/jNgV8KkD.php	0	67	2016-06-08 06:04:07	
+http://ytftdlip.cz.cc/count21.php	5	65	2017-08-23 07:56:02	Dr.Web:malicious site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site Fortinet:malware site
+http://cf1n4.r.teaserguide.com/snitch?default_keyword=&referrer=&se_referrer=&source=	4	64	2017-05-15 08:14:44	Dr.Web:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://ampgroup.co.uk/clk.php	1	68	2016-12-21 00:50:49	Dr.Web:malicious site
+http://heimsoft.ch/Deutsch/relay.php	0	67	2016-06-07 07:59:02	
+http://ayfjzuw.ce.ms/count13.php	2	67	2016-06-13 03:42:58	Avira:malware site Sophos:malicious site
+http://atnywyz.eu/count26.php	2	67	2016-05-28 05:35:02	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://sciencenetworks.org/clk.php	2	68	2016-10-27 20:38:09	Sucuri SiteCheck:malicious site Fortinet:malware site
+http://adswebsearchredirect.com/ads/stat.php	4	67	2016-06-10 01:58:16	Websense ThreatSeeker:malicious site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://kvmchjinmu.ce.ms/count13.php	5	67	2016-06-13 03:43:10	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://nqtydsxx.ce.ms/count13.php	3	67	2016-07-02 13:07:36	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://www.scuolamediafalbert.it/files/clk.php	1	68	2016-11-20 05:40:52	Dr.Web:malicious site
+http://dlylxoca.ce.ms/count13.php	4	67	2016-06-03 08:45:31	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://slidesms.com/beta/widget/widget.php	1	67	2016-05-29 12:26:54	BitDefender:phishing site
+http://rfemfxnm.cz.cc/count23.php	5	67	2016-06-10 00:16:56	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://dobekrallyfoto.cba.pl/forum/relay.php	2	64	2017-02-23 06:54:51	Sucuri SiteCheck:malicious site ZeroCERT:malicious site
+http://universalhartland.com/rel.php	0	67	2016-06-07 04:27:30	
+http://sokhxokonz.ce.ms/count13.php	5	67	2016-06-13 03:42:59	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://aristografica.it/7DP86gXB.php	1	65	2015-10-29 05:29:03	ZeroCERT:malicious site
+http://xukdisu.in/count27.php	1	67	2016-05-30 05:18:38	Kaspersky:malware site
+http://kiykgfoh.ce.ms/count13.php	3	67	2016-06-13 03:43:16	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://nikeeyb.com/stats.php	2	68	2016-09-07 10:32:13	SCUMWARE.org:malware site Fortinet:malware site
+http://switch-motorbikeparts.nl/count.php	2	68	2016-11-06 09:25:52	BitDefender:malware site Sucuri SiteCheck:malicious site
+http://carbili.com/count3.php	5	65	2017-08-12 22:53:17	Kaspersky:malware site BitDefender:malware site SCUMWARE.org:malware site Yandex Safebrowsing:malware site Fortinet:malware site
+http://aremac.ca/wp-content/plugins/wp_add/RHopzlCl.php	2	68	2016-11-02 23:49:21	Dr.Web:malicious site Fortinet:malware site
+http://85.10.235.43/cnt.php	4	63	2015-08-26 06:46:06	Google Safebrowsing:malware site BitDefender:phishing site Sophos:malicious site Fortinet:malware site
+http://excvbsqp.cz.cc/count22.php	4	67	2016-05-28 09:23:26	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://rhugplgb.cz.cc/count15.php	2	65	2017-08-24 11:11:46	Sophos:malicious site Yandex Safebrowsing:malware site
+http://ldntbtg.ce.ms/count13.php	5	67	2016-07-02 13:07:44	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://cukhllpb.cz.cc/count16.php	3	67	2016-06-09 09:13:30	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://intratecseguridad.com/media/tWqyjfgP.php	1	64	2017-02-21 10:43:02	Kaspersky:malware site
+http://rise-hoken.jp/counter.php	1	65	2017-07-28 05:12:44	Fortinet:malware site
+http://tops-mails.com/index.html	1	68	2016-12-05 08:50:29	Dr.Web:malicious site
+http://hhhwxxdbgs.changeip.org/?go=2	0	64	2017-01-27 06:37:02	
+http://jahdivideoners.su/main.php?page=4d81d4c54d71b36c	10	67	2016-06-09 18:28:52	BitDefender:malware site Dr.Web:malicious site Certly:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site ADMINUSLabs:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://reglasti.com/count8.php	7	67	2016-06-09 11:25:31	Google Safebrowsing:malware site Kaspersky:malware site ADMINUSLabs:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site Fortinet:malware site
+http://jesusnazarenoloja.com/help/cnt.php	3	68	2016-11-04 20:22:17	BitDefender:phishing site Dr.Web:malicious site Fortinet:malware site
+http://micro-wave.be/basic_site_template/3yfN9Zbt.php	2	50	2013-11-01 10:34:21	Dr.Web:malicious site Avira:malware site
+http://falsewi.com/count8.php	9	64	2017-05-19 09:54:02	Google Safebrowsing:malware site BitDefender:phishing site G-Data:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site AutoShun:malicious site Fortinet:malware site
+http://bgwfogvm.cz.cc/count14.php	5	67	2016-06-02 16:46:39	Dr.Web:malicious site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://dkijhsdkjfhsdf.ru:8080/images/aublbzdni.php	4	31	2012-12-06 07:00:47	K7AntiVirus:malicious site MalwareDomainList:malware site Antiy-AVL:malware site Wepawet:malicious site
+http://caiualoy.cz.cc/count19.php	3	67	2016-06-09 13:38:44	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://vydpilny.ru/count13.php	2	68	2016-07-12 08:04:01	Kaspersky:malware site Sucuri SiteCheck:malicious site
+http://www.schmischke-beyer.de/bilder-gebrauchte/traf.php	0	63	2015-07-14 03:53:28	
+http://cubyfonizi.com/k985ytv.htm	3	68	2017-01-09 19:18:54	Kaspersky:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site
+http://zadnicamarinu.sells-for-less.com/eqxa.cgi?default	4	68	2016-09-19 08:34:06	Kaspersky:malware site BitDefender:malware site Yandex Safebrowsing:malware site Fortinet:malware site
+http://360.webstatanalyzer.ru/index.html?p=236768	6	61	2014-12-11 14:06:52	Kaspersky:malware site Websense ThreatSeeker:malicious site ESET:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://buchladen-libretto.de/kGxX6f3L.php	0	68	2016-07-10 02:37:43	
+http://the-flexbelt-reviews.com/KWNf7mkT.php	0	37	2013-06-08 22:59:18	
+http://aknmlvkeho.ce.ms/count13.php	4	67	2016-06-13 03:43:02	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://static.riedeltextil.de/banner/RmgvfbhT.php	2	67	2016-06-07 07:27:35	BitDefender:phishing site Dr.Web:malicious site
+http://mexstat480.pw/	3	65	2017-07-05 06:14:21	Kaspersky:malware site Sophos:malicious site Fortinet:malware site
+http://cxovzte.ce.ms/count13.php	3	67	2016-06-13 03:43:13	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://sportverein-gessertshausen.de/svg2/BX2CWjF6.php	2	65	2015-09-25 11:13:10	BitDefender:malware site Dr.Web:malicious site
+http://mactraiskirchen.at/count.php	0	68	2016-08-17 19:31:09	
+http://kuzin-d.in/t/52f235382759657275bfbb3066129d3c	1	67	2016-02-19 13:45:43	Kaspersky:malware site
+http://eplarine.com/count3.php	9	64	2017-02-22 12:51:17	Kaspersky:malware site Dr.Web:malicious site G-Data:malware site Websense ThreatSeeker:malicious site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site AutoShun:malicious site
+http://dzeosybpl.myfw.us/ad/feed.php	1	52	2014-05-23 02:26:59	Kaspersky:malware site
+http://kuiffaam.ru/count14.php	2	65	2017-08-28 13:44:08	Kaspersky:malware site Sucuri SiteCheck:malicious site
+http://ftp.theilsiefje.de/count.php	4	68	2016-07-21 11:35:34	Websense ThreatSeeker:malicious site Avira:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://jrkznspe.cz.cc/count21.php	4	65	2017-08-23 11:51:06	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://qerfhgkadhsfukhertgrpotgjpoidfg.ce.ms/main.php?page=b5a87c34230be775	6	65	2017-07-28 04:11:26	Kaspersky:malware site BitDefender:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://anapoli.ru:8080/forum/showthread.php?page=5fa58bce769e5c2c	2	67	2016-05-29 08:17:53	Dr.Web:malicious site Websense ThreatSeeker:malicious site
+http://www.hollywoodvans.com.au/wordpress/TqfCjHNw.php	0	38	2013-10-03 16:59:22	
+http://xyzrriwp.ce.ms/count13.php	5	67	2016-07-02 13:07:45	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://analbdsm.org/bottom.html	0	58	2014-09-23 12:29:44	
+http://ilicantropi.it/counter.php	1	67	2016-06-07 04:26:43	Dr.Web:malicious site
+http://gvcpasno.cz.cc/count15.php	9	67	2016-06-09 16:32:46	Kaspersky:malware site Dr.Web:malicious site Certly:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://zevbektu.ru/count13.php	2	68	2016-07-11 17:43:39	Kaspersky:malware site Sucuri SiteCheck:malicious site
+http://aldinet.com/newsletter/clik.php	0	38	2013-06-06 14:07:16	
+http://www.philchor-nb.de/demo/counter.php	2	68	2016-10-21 10:26:04	Websense ThreatSeeker:malicious site Fortinet:malware site
+http://ftp.opjablonica.sk/dtd.php	1	65	2017-06-20 07:06:34	Sucuri SiteCheck:malicious site
+http://www.unratedmagazine.com/Workfiles/9tXLxvzC.php	0	68	2016-11-17 22:32:29	
+http://bazaarbradford.co.uk/clk.php	0	68	2017-01-12 01:38:42	
+http://uvqyfnd.ce.ms/count13.php	5	67	2016-06-13 03:43:02	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://inntech.org.ru/counter.php	4	68	2016-08-11 19:24:28	Dr.Web:malicious site Websense ThreatSeeker:malicious site Blueliv:malicious site Sucuri SiteCheck:malicious site
+http://www.finanzas.net/hipotecas/hipotecas.htm	1	64	2017-02-23 22:57:30	BitDefender:phishing site
+http://dovlatbegeiner.su/main.php?page=32debd15712cad82	6	67	2016-05-22 19:43:20	BitDefender:malware site Websense ThreatSeeker:malicious site SCUMWARE.org:malware site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://newstaticup.com/cache/stat.php	7	64	2017-01-31 10:57:18	Kaspersky:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site SCUMWARE.org:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://classic-poems.net/main.php?page=ca16f7c53056850e	4	64	2017-04-11 15:04:14	Kaspersky:malware site BitDefender:phishing site Sophos:malicious site Fortinet:malware site
+http://www.pensionskasse-berlin.de/beispielrechnung/counter.php	1	64	2017-02-20 00:46:04	Fortinet:malware site
+http://webordermanager.com/	1	65	2017-06-20 18:20:35	Avira:malware site
+http://homedics-russia.ru/clik.php	2	67	2016-06-09 13:58:08	Avira:malware site Sucuri SiteCheck:malicious site
+http://modulconero.it/traf.php	1	39	2013-08-22 19:36:11	Fortinet:malware site
+http://jokelimo.com/go.php?sid=3	2	68	2016-10-14 03:26:49	Websense ThreatSeeker:malicious site SCUMWARE.org:malware site
+http://kapzqury.cz.cc/count17.php	5	67	2016-06-07 03:56:31	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://fiberastat.com/temp/stat.php	11	67	2016-06-13 16:12:36	Google Safebrowsing:malware site Kaspersky:malware site BitDefender:phishing site Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Avira:malware site SCUMWARE.org:malware site Sophos:malicious site Malware Domain Blocklist:malicious site Fortinet:malware site
+http://dnerwiiq.cz.cc/count16.php	3	65	2017-08-24 09:58:56	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://paleciru.dyndns-web.com/eqxa.cgi?default	1	68	2016-09-19 08:33:43	Fortinet:malware site
+http://fecorom.in/count1.php	8	65	2017-08-13 14:46:03	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://aquarigger.com/main.php?page=8ac22a3fba86ace7	5	67	2016-05-28 18:14:42	Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://www.ocemi.com/pts/nYQbMrmW.php	0	68	2016-09-04 16:34:36	
+http://www.rechtsanwaelte-koester-woellert.com/hGfdBWXy.php	2	39	2013-08-17 01:39:26	BitDefender:malware site Sucuri SiteCheck:malicious site
+http://pwhwhatr.ce.ms/count13.php	4	67	2016-06-13 03:42:57	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://yadr0.com/d/index.php	6	64	2017-05-31 08:00:40	BitDefender:malware site SCUMWARE.org:malware site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://anluryh.in/count27.php	2	67	2016-05-29 07:46:31	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://www.metal-fis.it/administrator/L2YMpfZ6.php	5	38	2013-08-22 16:55:43	Kaspersky:malware site BitDefender:malware site Sophos:malicious site ESET:malware site Fortinet:malware site
+http://vsi.co.il/dtd.php	2	68	2016-07-26 16:36:27	BitDefender:malware site Sucuri SiteCheck:malicious site
+http://gylaqim.com/exit.php	5	68	2016-09-01 21:53:39	Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Avira:malware site Fortinet:malware site
+http://alonbor.com/esd.php	0	37	2013-04-04 09:40:51	
+http://romiqze.in/count27.php	2	67	2016-05-29 07:46:28	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://rm3a.r.mega-us-pills.ws/snitch?default_keyword=&referrer=&se_referrer=&source=	2	66	2016-02-04 15:02:56	Websense ThreatSeeker:malicious site Fortinet:malware site
+http://gdsghqyfxskng.ce.ms/main.php?page=4ecfff4e4234c726	5	68	2016-07-15 22:20:30	BitDefender:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.teamreactive.com/wp-admin/clicker.php	1	63	2015-08-26 03:22:43	Dr.Web:malicious site
+http://flgsajeb.ce.ms/count13.php	5	67	2016-07-02 13:07:30	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://stratenmakersfestival.nl/oud_juni2012/clik.php	0	63	2015-09-14 03:24:26	
+http://datumer.com/count6.php	6	65	2017-08-13 02:53:45	Kaspersky:phishing site BitDefender:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://wrcbqzwj.cz.cc/count17.php	5	67	2016-06-09 15:01:44	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.limeworks.org/limecs2011/traf.php	1	67	2016-06-08 15:48:49	malwares.com URL checker:malicious site
+http://numudozaf.com/k985ytv.htm	7	68	2016-09-02 12:42:23	Google Safebrowsing:malware site Kaspersky:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://www.idmelettronica.it/js/counter.php	4	63	2015-08-26 13:58:05	Google Safebrowsing:malware site Avira:malware site Yandex Safebrowsing:malware site Fortinet:malware site
+http://yqkzmisz.ce.ms/count13.php	3	67	2016-07-02 13:07:27	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://iqqspkqdji.ce.ms/count13.php	5	67	2016-06-13 03:43:04	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://apzukem.in/count27.php	2	65	2017-07-06 08:54:24	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://iazoo.ipage.com/count.php	0	52	2014-05-24 00:39:15	
+http://anglik.com.ua/modules/mod_add/G4GyaJ2x.php	0	60	2014-11-05 01:42:51	
+http://ftp.poxix.com/people/esd.php	1	68	2016-10-27 16:52:29	Fortinet:malware site
+http://africanherd.com/james/dtd.php	3	67	2016-06-08 14:37:26	Google Safebrowsing:malware site Websense ThreatSeeker:malicious site Fortinet:malware site
+http://ftp.2j.home.pl/css/esd.php	1	32	2013-01-06 22:35:33	Sucuri SiteCheck:malicious site
+http://waistor.com/count28.php	9	64	2017-05-11 08:16:27	Netcraft:malicious site Kaspersky:phishing site Dr.Web:malicious site Websense ThreatSeeker:malicious site Opera:malicious site Avira:phishing site SCUMWARE.org:malware site Sophos:malicious site Fortinet:phishing site
+http://lwortcqo.cz.cc/count19.php	4	67	2016-05-28 08:18:41	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://generationdrawn.com/clicker.php	1	63	2015-08-26 03:06:34	Sucuri SiteCheck:malicious site
+http://unryodyr.cz.cc/count22.php	4	67	2016-06-14 10:19:15	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://formuria.com/count6.php	7	67	2016-05-31 19:52:02	BitDefender:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site Fortinet:malware site
+http://paardencoach.nl/images/clicker.php	2	68	2016-10-22 06:51:59	Dr.Web:malicious site Fortinet:malware site
+http://centre-funeraire-marchetti.fr/count.php	0	63	2015-08-26 00:54:12	
+http://26-1.blogspot.com/	2	64	2017-06-07 18:18:07	BitDefender:phishing site Sucuri SiteCheck:malicious site
+http://hulpdienststabroek.be/counter.php	1	68	2016-08-20 10:42:39	Sucuri SiteCheck:malicious site
+http://wcscyrkv.cz.cc/count19.php	7	67	2016-05-28 08:39:02	Kaspersky:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://athleticperformancemassage.com/k4RKDjWm.php	0	63	2017-07-16 12:16:01	
+http://firmco.net/esd.php	0	68	2016-07-07 19:03:49	
+http://www.search-blogger.com/	3	65	2017-08-21 03:09:11	BitDefender:phishing site Sucuri SiteCheck:malicious site Fortinet:phishing site
+http://myscrapbooknook.org/forum/3/	0	30	2012-09-17 04:06:59	
+http://4cs.ch/cnt.php	1	68	2016-11-04 07:01:22	Sucuri SiteCheck:malicious site
+http://cqkjibj.ce.ms/count13.php	5	67	2016-06-13 03:43:11	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://xukgplsz.cz.cc/count14.php	6	67	2016-05-28 08:54:49	Kaspersky:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://95.211.18.91/go.php?sid=1	0	38	2013-06-08 22:38:24	
+http://akcentsport.home.pl/cnt.php	0	52	2014-05-22 00:12:20	
+http://opldcfugaz.jkub.com/counter/stats.php	5	51	2014-01-04 14:07:06	Google Safebrowsing:malware site ESET:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://veuwhyz.ru/count23.php	3	65	2017-08-16 19:37:49	BitDefender:malware site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site
+http://brightfire1.co.uk/cnt.php	0	65	2017-06-28 07:34:01	
+http://mirdymas.ru:8080/forum/showthread.php?page=5fa58bce769e5c2c	2	65	2017-06-19 12:30:11	Websense ThreatSeeker:malicious site Sophos:malicious site
+http://vnoxmig.ce.ms/count13.php	3	67	2016-06-13 03:43:15	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://gycyvbe.in/count27.php	2	67	2016-05-29 07:46:29	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://bhueizz.ce.ms/count13.php	4	67	2016-06-13 03:43:14	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://bridgefasteners.com/counter.php	1	64	2017-04-19 02:00:14	BitDefender:phishing site
+http://www.huizevandiana.nl/6Rb3cTHF.php	6	47	2013-10-24 21:47:04	Google Safebrowsing:malware site Kaspersky:malware site BitDefender:malware site Sophos:malicious site Avira:malware site Fortinet:malware site
+http://timber-cut.com/includes/yfpBFQrb.php	0	62	2015-02-25 08:50:04	
+http://zihemmi.ru/count26.php	2	65	2017-07-12 17:32:40	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://1lyk-kalam.mes.sch.gr/traf.php	2	68	2016-11-01 04:52:11	Dr.Web:malicious site Fortinet:malware site
+http://images.bopp.com/traf.php	1	67	2016-06-08 01:29:39	Dr.Web:malicious site
+http://altblog.7u.cz/wp-includes/dNy7pknz.php	1	65	2017-08-01 23:11:11	Kaspersky:malware site
+http://qxhjyavy.cz.cc/count16.php	5	67	2016-06-09 15:00:45	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://free-tube-xxx.com/plug1.html	1	65	2017-08-25 17:27:41	BitDefender:phishing site
+http://bopihwi.eu/count26.php	4	67	2016-05-28 05:35:06	Kaspersky:malware site BitDefender:phishing site Yandex Safebrowsing:malware site Fortinet:malware site
+http://jmuusreg.ce.ms/count13.php	3	67	2016-06-13 03:43:13	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://hxxhnlmz.cz.cc/count14.php	5	67	2016-06-09 16:32:17	Websense ThreatSeeker:malicious site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://mteyfunz.cz.cc/count22.php	6	67	2016-06-09 15:17:32	BitDefender:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://lanotfo.com/exit.php	6	68	2016-09-03 02:44:43	Kaspersky:malware site Dr.Web:malicious site malwares.com URL checker:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://www.senium.sk/aktuality/clk.php	0	39	2013-09-19 10:02:59	
+http://crgivlevrj.ce.ms/count20.php	4	67	2016-06-09 14:36:29	AutoShun:malicious site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site
+http://lfmonline.de/test/test.php	1	65	2017-07-27 08:02:44	Fortinet:malware site
+http://rjytkixbfjxkk.myfw.us/?go=2	9	67	2016-06-10 03:42:07	Kaspersky:malware site BitDefender:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Malware Domain Blocklist:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://alexsaranc.org/tds/go.php?sid=4	4	68	2016-07-20 01:03:39	Kaspersky:malware site Websense ThreatSeeker:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://trustconnects.info/?travel	4	64	2017-03-21 22:53:22	BitDefender:phishing site Dr.Web:malicious site Sophos:malicious site Fortinet:malware site
+http://kerstin-schiessl.de/dtd.php	4	61	2015-01-22 17:50:37	Google Safebrowsing:malware site Avira:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://128.121.92.105/QqM9PFGN.php	0	47	2013-10-22 02:06:56	
+http://pub.acci.cz/9ZbBQ7tW.php	0	38	2013-07-03 11:57:02	
+http://xmfydbnjgq.ce.ms/count13.php	5	67	2016-06-13 03:42:55	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://mzoipfad.ce.ms/count13.php	3	67	2016-06-13 03:42:59	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://ads.rzb.ir/image.php?size_id=7	2	65	2017-08-08 11:43:54	Blueliv:malicious site Sucuri SiteCheck:malicious site
+http://serwema.de/includes/test.php	2	62	2015-03-16 15:18:39	Kaspersky:malware site Dr.Web:malicious site
+http://douate.com/count9.php	10	69	2016-07-10 08:38:51	Google Safebrowsing:malware site Kaspersky:phishing site ADMINUSLabs:malicious site malwares.com URL checker:malicious site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site Quick Heal:malicious site Fortinet:malware site
+http://xchsztpr.cz.cc/count20.php	4	67	2016-06-09 13:38:15	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://www.demenagementpiano.ca/admin/esd.php	0	60	2014-11-05 07:32:30	
+http://mesden.fr/wp-content/index.php	5	51	2013-11-28 01:45:14	Google Safebrowsing:malware site BitDefender:malware site TrendMicro:malicious site Emsisoft:malware site Fortinet:malware site
+http://jtmquogu.cz.cc/count17.php	6	67	2016-06-09 14:10:48	BitDefender:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.rmwerbefotografie.de/fileadmin/clicker.php	0	0	2013-08-09 16:09:02	
+http://xalagnq.ce.ms/count13.php	4	67	2016-07-02 13:07:35	Kaspersky:malware site AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://jeremikame.in/ts/in.cgi?test	2	32	2013-01-23 06:05:17	Google Safebrowsing:malware site Sophos:malicious site
+http://myv.nl//UserFiles/demo/dem.php	5	68	2016-11-26 19:53:41	Kaspersky:malware site SCUMWARE.org:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://umppxgyy.cz.cc/count18.php	4	65	2017-08-24 11:13:17	Websense ThreatSeeker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site
+http://gwtowtjz.ce.ms/count13.php	6	67	2016-06-13 03:42:55	Kaspersky:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://virtuoso-luxury.info/go.php?sid=1	5	67	2016-03-08 07:25:14	BitDefender:malware site Dr.Web:malicious site Avira:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://googleclick.info/?travel	7	68	2016-10-27 21:23:17	Kaspersky:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://lightambre.info/thread/laddbide.php?key=vitylove&s=2d082519c9e&u=dentdant	1	63	2015-09-02 08:48:50	Kaspersky:malware site
+http://dan-mares.ro/highslide/clik.php	5	60	2014-11-04 22:52:13	Google Safebrowsing:malware site Dr.Web:malicious site Avira:malware site Yandex Safebrowsing:malware site Fortinet:malware site
+http://centennialfield.net/main.php?page=26340ae2076aa89a	5	67	2016-05-31 11:21:22	Kaspersky:malware site BitDefender:malware site Websense ThreatSeeker:malicious site Sophos:malicious site Fortinet:malware site
+http://lctrsob.ce.ms/count13.php	3	67	2016-07-02 13:07:27	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://ad-stat-network.net/?1	3	67	2016-06-28 11:04:40	BitDefender:malware site Sophos:malicious site Fortinet:malware site
+http://www.bgstaking.com/images/traf.php	0	67	2016-06-09 14:34:44	
+http://quoqpgze.cz.cc/count15.php	4	67	2016-05-28 05:35:25	Websense ThreatSeeker:malicious site AutoShun:malicious site Sophos:malicious site Yandex Safebrowsing:malware site
+http://tbckubkmkd.ce.ms/count13.php	3	67	2016-06-13 03:43:00	AutoShun:malicious site Avira:malware site Sophos:malicious site
+http://novostivkontakte.ru/?id=ifrm	10	53	2014-02-17 22:46:25	Google Safebrowsing:malware site Kaspersky:malware site BitDefender:malware site Dr.Web:malicious site Websense ThreatSeeker:malicious site Emsisoft:malware site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://trinity-ring.com/vwDhY73V.php	1	67	2016-06-08 03:13:45	Fortinet:malware site
+http://artreviewcenter.com/relay.php	0	67	2016-06-02 16:27:13	
+http://dyjnzoqy.cz.cc/count20.php	7	67	2016-06-09 23:49:12	BitDefender:malware site Websense ThreatSeeker:malicious site AutoShun:malicious site malwares.com URL checker:malicious site Sophos:malicious site Yandex Safebrowsing:malware site Malware Domain Blocklist:malicious site
+http://niqorno.in/count27.php	1	67	2016-05-29 09:08:16	Kaspersky:malware site
+http://darinwonn.com/clk.php	1	65	2017-08-30 20:19:58	Sucuri SiteCheck:malicious site
+http://mahidhara.com/count.php	0	65	2017-08-30 20:19:58	
+http://c32091718ce17e48.fcc827591d7f6828.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:00	Yandex Safebrowsing:malware site Fortinet:malware site
+http://i-education.gr/css/cQrHDj7v.php	1	65	2017-08-30 20:20:01	Fortinet:malware site
+http://pvfnpwoyjq.ce.ms/count13.php	6	65	2017-08-30 20:20:01	Kaspersky:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site AutoShun:malicious site Fortinet:malware site
+http://jqwcfipwhfmeiwhw.mynumber.org/in.cgi?14	0	65	2017-08-30 20:20:01	
+http://boxcanyon.com.au/wp-admin/7tLBXbVP.php	1	65	2017-08-30 20:20:01	Dr.Web:malicious site
+http://rcpijhroipeajzjf.mynumber.org/in.cgi?14	0	65	2017-08-30 20:20:02	
+http://m2bingenieros.com/clicker.php	0	65	2017-08-30 20:20:02	
+http://qshdzaim.ddns.me.uk/t/vc.php?go=2	2	65	2017-08-30 20:20:03	AutoShun:malicious site Sucuri SiteCheck:malicious site
+http://8d0704ae73e61ffc.021fc8e6834ad96d.2traff.cn/traff2.cn/	1	65	2017-08-30 20:20:03	Yandex Safebrowsing:malware site
+http://banner.kiev.ua/cgi-bin/bi.cgi?h58347&219235&1&12	0	65	2017-08-30 20:20:04	
+http://romoreok.tk/i/newiframe	2	65	2017-08-30 20:20:04	Kaspersky:malware site Sophos:malicious site
+http://bomat.home.pl/kreator/count.php	1	65	2017-08-30 20:20:04	BitDefender:malware site
+http://500252.ru/esd.php	0	65	2017-08-30 20:20:04	
+http://busy81.webd.pl/images/counter.php	0	65	2017-08-30 20:20:05	
+http://yfonzetf.ce.ms/count13.php	5	65	2017-08-30 20:20:06	Kaspersky:malware site Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://ad4.bigmir.net/t.bbn?28389&4&f&2863297&hfile%3A///tmp/direct_run_without_condition.html	0	65	2017-08-30 20:20:06	
+http://hzhjstkswk.ce.ms/count13.php	4	65	2017-08-30 20:20:06	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://ef5b0d36ee31ab4c.e4a4a26a5c655aca.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:07	Yandex Safebrowsing:malware site Fortinet:malware site
+http://11a2062f61ba43e8.a9632e158a0a8f0a.managerss.cn/index.cn/	0	65	2017-08-30 20:20:07	
+http://97.74.221.92/cart/LNPgnbtH.php	0	65	2017-08-30 20:20:07	
+http://alcardia.l.coredistribute.com/snitch?default_keyword=&referrer=&se_referrer=&source=	1	65	2017-08-30 20:20:08	Fortinet:malware site
+http://nachmuller.cz/sqladmin/cnt.php	0	65	2017-08-30 20:20:08	
+http://cwlvrqnx.ce.ms/count13.php	4	65	2017-08-30 20:20:09	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://zea.biz.pl/3Z8cnYjy.php	0	65	2017-08-30 20:20:09	
+http://qxnlvnpa.4pu.com/counter/main.php	3	65	2017-08-30 20:20:09	Avira:malware site Sophos:malicious site AutoShun:malicious site
+http://xn--brgermeisterin-fr-idstein-fwcp.de/wfqDXYBT.php	0	65	2017-08-30 20:20:09	
+http://www.cluttercontrolboise.com/jscript/clicker.php	0	65	2017-08-30 20:20:09	
+http://www.netgrosmarket.com/pla3.php	6	65	2017-08-30 20:20:09	Google Safebrowsing:phishing site G-Data:phishing site Websense ThreatSeeker:malicious site ESET:phishing site Sophos:malicious site Fortinet:phishing site
+http://paratailor.web44.net/traf.php	0	65	2017-08-30 20:20:09	
+http://92fc8490aab1c61a.06b937ac0b8ab5fe.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:10	Yandex Safebrowsing:malware site Fortinet:malware site
+http://click.rndtrg.com/feed/frames.php?uid=155&frames=3	2	65	2017-08-30 20:20:11	Kaspersky:malware site Sucuri SiteCheck:malicious site
+http://halodrol-liquigels.com/BGJVLwTj.php	1	65	2017-08-30 20:20:11	Dr.Web:malicious site
+http://wanqalqms.ontheweb.nu/?go=2	2	65	2017-08-30 20:20:11	Avira:malware site ESET:malware site
+http://www.telemarkski.gr/clicker.php	0	65	2017-08-30 20:20:11	
+http://pornvvid.com/secure/?1	1	65	2017-08-30 20:20:11	Sucuri SiteCheck:malicious site
+http://guinessbids.nl/rel.php	0	65	2017-08-30 20:20:12	
+http://urdyfxv.ce.ms/count13.php	4	65	2017-08-30 20:20:12	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://ad0.bigmir.net/t.bbn?28384&0&f&7723774&hfile%3A///tmp/direct_run_without_condition.html	0	65	2017-08-30 20:20:12	
+http://chernayascyka.from-ne.com/?id=ifrm	2	65	2017-08-30 20:20:12	Kaspersky:malware site Yandex Safebrowsing:malware site
+http://yufebsag.ce.ms/count13.php	4	65	2017-08-30 20:20:12	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://bmxnbbz.ce.ms/count13.php	4	65	2017-08-30 20:20:13	Kaspersky:malware site Avira:malware site Sophos:malicious site Fortinet:malware site
+http://vcevpqm.ce.ms/count13.php	4	65	2017-08-30 20:20:13	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://netgrosmarket.com/pla4.php	1	65	2017-08-30 20:20:14	Sophos:malicious site
+http://banner.kiev.ua/cgi-bin/bi.cgi?h58347&7460638&1&14	0	65	2017-08-30 20:20:14	
+http://janmoll.nl/watJankon/dtd.php	1	65	2017-08-30 20:20:14	BitDefender:phishing site
+http://www.compusolution.com.mx/img/26rmDWhG.php	1	65	2017-08-30 20:20:15	Dr.Web:malicious site
+http://chicagoxteriors.com/gQ94TwvB.php	0	65	2017-08-30 20:20:15	
+http://www.ambientenergy.it/dXzkh8xY.php	0	65	2017-08-30 20:20:17	
+http://b5855cbca7590228.32104c4be7efe357.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:18	Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.homeaccessoriesdecor.ca/count.php	0	65	2017-08-30 20:20:19	
+http://dielaemmer-band.de/dtd.php	0	65	2017-08-30 20:20:20	
+http://ccf2b525a552c049.77dcedf371cd6470.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:20	Yandex Safebrowsing:malware site Fortinet:malware site
+http://dns-stat.com/stats/index.php	0	65	2017-08-30 20:20:21	
+http://valleycenterprinting.com/clicker.php	0	65	2017-08-30 20:20:22	
+http://gjhhkop.ce.ms/count13.php	4	65	2017-08-30 20:20:22	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://08e84535d0dab26a.33bf4bc7019f4ecf.2traff.cn/traff2.cn/	1	65	2017-08-30 20:20:22	Yandex Safebrowsing:malware site
+http://megaborsa.bg/traf.php	0	65	2017-08-30 20:20:22	
+http://ad4.bigmir.net/t.bbn?28389&4&f&9597565&hfile%3A///tmp/direct_run_without_condition.html	0	65	2017-08-30 20:20:22	
+http://ohqubswqjp.ce.ms/count13.php	4	65	2017-08-30 20:20:22	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://childcare.elitecomms.com/7TtCFMBp.php	0	65	2017-08-30 20:20:22	
+http://iesathjc.ce.ms/count13.php	5	65	2017-08-30 20:20:23	Kaspersky:malware site Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://vn4.r.teaserguide.com/snitch?default_keyword=&referrer=&se_referrer=&source=	5	65	2017-08-30 20:20:23	Dr.Web:malicious site Avira:malware site Sophos:malicious site Sucuri SiteCheck:malicious site Fortinet:malware site
+http://eaa3b7f14bd54996.d2e0fc2a348f17e3.managerss.cn/index.cn/	0	65	2017-08-30 20:20:23	
+http://6ffd8b5895f4ea85.de4243b84e0105d9.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:24	Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.hiruzta.com/tmp/XCy9pGHR.php	0	65	2017-08-30 20:20:25	
+http://zsqrgmlrxgi.myfw.us/ad/feed.php	2	65	2017-08-30 20:20:26	Kaspersky:malware site AutoShun:malicious site
+http://hann9202.no-ip.org/?go=2	0	65	2017-08-30 20:20:26	
+http://www.relatedmedia.com/client-projects/clik.php	0	65	2017-08-30 20:20:26	
+http://bestgdansk.kei.pl/test/cnt.php	1	65	2017-08-30 20:20:26	Sucuri SiteCheck:malicious site
+http://dyioatrhnx.ce.ms/count13.php	5	65	2017-08-30 20:20:26	Kaspersky:malware site Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://dayz-igi.tk/wp-content/counter.php	1	65	2017-08-30 20:20:26	Sucuri SiteCheck:malicious site
+http://3800e395c1af4248.41dbe668b8fd362c.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:27	Yandex Safebrowsing:malware site Fortinet:malware site
+http://www.ferlitosalvatore.it/joomla/clik.php	0	65	2017-08-30 20:20:27	
+http://d604f65edca90630.756deaac9f7dfc7b.update3.classictel.org/drivers/	5	65	2017-08-30 20:20:28	Google Safebrowsing:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://mwwcmrmfjihpimfj.mynumber.org/in.cgi?14	0	65	2017-08-30 20:20:28	
+http://sandjam.clientpreview.ca/MFx8cCNX.php	0	65	2017-08-30 20:20:28	
+http://insertspermanently.pro/feed/frames.php?uid=56&frames=4	1	65	2017-08-30 20:20:29	Sophos:malicious site
+http://pyxthzm.ce.ms/count13.php	5	65	2017-08-30 20:20:30	Kaspersky:malware site Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://chiggiato.it/rel.php	0	65	2017-08-30 20:20:30	
+http://f51103277b346eda.e3c15cbfc0e085ed.update3.classictel.org/drivers/	5	65	2017-08-30 20:20:31	Google Safebrowsing:malware site Avira:malware site Sophos:malicious site Yandex Safebrowsing:malware site Fortinet:malware site
+http://c4ebc039f80d300b.7722e2714d8240e1.3traff.cn/traff3.cn/	2	65	2017-08-30 20:20:31	Yandex Safebrowsing:malware site Fortinet:malware site
+http://phlmdkkg.ce.ms/count13.php	5	65	2017-08-30 20:20:32	Kaspersky:malware site Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://bullzay.be/dtd.php	0	65	2017-08-30 20:20:32	
+http://basketbal.nu/count.php	0	65	2017-08-30 20:20:32	
+http://rymfgag.ce.ms/count13.php	4	65	2017-08-30 20:20:33	Avira:malware site Sophos:malicious site AutoShun:malicious site Fortinet:malware site
+http://207.204.34.128/esd.php	0	65	2017-08-30 20:20:33	
+http://banner.kiev.ua/cgi-bin/bi.cgi?h58347&1564721&1&12	0	65	2017-08-30 20:20:33	
+http://banner.kiev.ua/cgi-bin/bi.cgi?h58347&1754743&1&14	0	65	2017-08-30 20:20:33	
+http://afrgbajp.ibiz.cc/d/404.php?go=1	2	65	2017-08-30 20:20:34	ESET:malware site Sucuri SiteCheck:malicious site
+http://ad0.bigmir.net/t.bbn?28384&0&f&2413272&hfile%3A///tmp/direct_run_without_condition.html	0	65	2017-08-30 20:20:34	
+http://www.autofyl.com/esd.php	0	65	2017-08-30 20:20:34	
+http://gghhppqoewrhzwzd.mynumber.org/in.cgi?14	0	65	2017-08-30 20:20:34	
+http://2020beyond.com/clk.php	0	65	2017-08-30 20:20:36	
+http://traff.spooky-domain.com/in.cgi?4	2	65	2017-08-30 20:20:36	Yandex Safebrowsing:malware site Sucuri SiteCheck:malicious site
