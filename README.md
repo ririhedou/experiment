@@ -2,9 +2,16 @@
 
 ## Result for 1 subfolder
 ls -v /mnt/sdb1/domcrawl/htmls/1/ | grep -n "undroider"       ketian@ketian
+
 31052:undroider.com
 
+/tmp/1 » ls | wc -l                                               ketian@ketian
+519
 
+I name it as domainName-index
+
+An example of ipfw.edu-9                                        
+https://4352641.fls.doubleclick.net/activityi;src=4352641;type=ip1460;cat=homep0;ord=4989106578296.634?%
 
 ## Results for Iframe and iframe 2
 
