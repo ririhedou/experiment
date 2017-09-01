@@ -1,5 +1,10 @@
 # experiment
 
+## Result for 1 subfolder
+ls -v /mnt/sdb1/domcrawl/htmls/1/ | grep -n "undroider"       ketian@ketian
+31052:undroider.com
+
+
 
 ## Results for Iframe and iframe 2
 
