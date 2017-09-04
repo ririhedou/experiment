@@ -56,6 +56,8 @@ def filter_src(cur_src):
         return False
     if cur_src == "javascript:false":
         return False
+    if not cur_src.startswith("http"):
+        return False
     return True
 
 
@@ -67,6 +69,7 @@ def analyze_files_to_csv(filename, filepath):
     infile = open(filename, 'r')
     cur_src = infile.readline().rstrip().strip()
 
+    #print (cur_src)
     if not filter_src(cur_src):
         return None
 
@@ -105,12 +108,12 @@ def get_result(path, myfilepath):
     import os
     files = [os.path.join(path,fn) for fn in next(os.walk(path))[2]]
 
-    print (files)
-    raw_input()
+    #print (files)
+    #raw_input()
     ans = []
     for i in files:
         dic = analyze_files_to_csv(i,myfilepath)
-        if not dic:
+        if dic:
             ans.append(dic)
 
     return ans
@@ -118,7 +121,7 @@ def get_result(path, myfilepath):
 if __name__ == "__main__":
 
     mypath = "/mnt/sdb1/domcrawl/htmls/1/"
-    d = "/tmp/1"
+    d = "/tmp/1/"
     ans = get_result(d,mypath)
     write_into_a_csv_file(ans,"1.csv")
     #dicList2 = analyze_files_to_csv(filename2)
