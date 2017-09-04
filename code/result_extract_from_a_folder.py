@@ -75,12 +75,12 @@ def analyze_files_to_csv(filename, filepath):
 
     domain_idx = filename.split("/")[-1]
 
-    domain = domain_idx.split("-")[0]
+    domain = "-".join(domain_idx.split("-")[0:-1])
     if not str(filepath).endswith("/") :
         filepath = filepath + "/"
 
     cur_file = filepath + domain
-    cur_idx = domain_idx.split("-")[1]
+    cur_idx = domain_idx.split("-")[-1]
 
     tmp_dic = {
         "filename": cur_file,
@@ -91,7 +91,7 @@ def analyze_files_to_csv(filename, filepath):
     }
     return tmp_dic
 
-def get_unique_list_of_urls(dicList):
+def get_unique_list_of_urls(dicList, out):
     src = []
     for i in dicList:
         if i["src"] == "about:blank":
@@ -101,7 +101,7 @@ def get_unique_list_of_urls(dicList):
     print (len(src))
     src = list(set(src))
     print (len(src))
-    write_list_into_a_file(src, "iframe_iframe2_unique_src_url.txt")
+    write_list_into_a_file(src, out)
 
 
 def get_result(path, myfilepath):
@@ -124,6 +124,7 @@ if __name__ == "__main__":
     d = "/tmp/1/"
     ans = get_result(d,mypath)
     write_into_a_csv_file(ans,"1.csv")
-    #dicList2 = analyze_files_to_csv(filename2)
+    get_unique_list_of_urls(ans,"1_src.txt")
+    #edicList2 = analyze_files_to_csv(filename2)
     #dicList = dicList+dicList2
     pass
